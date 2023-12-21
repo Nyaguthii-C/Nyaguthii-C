@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nyaguthii-C
 - 🌱 I’m currently learning Software Engineering at ALX
-- 👨‍💻 I'm specializing in Back-End Development
+- 👨‍💻 I'm specializing in Back-end Development
 - ☑  I'm open for collaboration and job opportunities
 - ✨ I have a keen interest in embedded systems in space technology and programming projects in Astronomy /Astrophysics / Remote sensing/ Space Technology
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nyaguthii-carol-a41659239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoqENtiVSTDuh%2FCS7oGfZxw%3D%3D)
