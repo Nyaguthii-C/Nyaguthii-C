@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nyaguthii-C
 - 🌱 I am a Software Engineer and Astronomer.
-- 👨‍💻 I have a keen interest in working on software engineering/development projects involving Astronomy, Astrophysics and Space Science and Tech.
+- 👨‍💻 I have a keen interest in working on software engineering/development projects involving Astronomy, Astrophysics and Space Tech.
 - ☑  I'm open for collaboration and job opportunities
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nyaguthii-carol-a41659239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoqENtiVSTDuh%2FCS7oGfZxw%3D%3D)
 <!---
