@@ -7,5 +7,5 @@ Nyaguthii-C/Nyaguthii-C is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <!--- 👨‍💻 I am available for freelance work on [Upwork](https://www.upwork.com/freelancers/~01e6e99734ec1564d3)--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaguthii-C&exclude_repo=Astrotourism-DS&theme=radical)](https://github.com/Nyaguthii-C/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaguthii-C&exclude_repo=Astrotourism-DS,letschat-frontend&theme=radical)](https://github.com/Nyaguthii-C/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nyaguthii-C&theme=radical)](https://git.io/streak-stats)  
